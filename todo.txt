@@ -1,0 +1,2 @@
+--setup ide, python, django, github
+--build base structure
